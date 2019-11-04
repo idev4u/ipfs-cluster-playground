@@ -1,0 +1,3 @@
+deployment/compose/**
+deployment/ipfs-cluster-ctl
+.DS_Store
