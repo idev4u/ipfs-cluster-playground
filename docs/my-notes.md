@@ -21,4 +21,4 @@ http://127.0.0.1:8080/ipfs/QmP56CgxGxQCvmHypVSCEuKTMgPK5Py7DUMui6TFweTBUQ
 
 ## manage the ipfs files
 
-Use Chrome extention for using the webui and manage the filesIch jetzt ein SMS Versehen da habe
+Use Chrome extention for using the webui and manage the files within the ipfs cluster.
