@@ -37,3 +37,7 @@ open this url in the browser
 ## manage the ipfs files
 
 Use Chrome extention for using the webui and manage the files within the ipfs cluster.
+
+## Example App
+
+A playground needs also some stuff to play with so [here](https://github.com/idev4u/ipfs-example-web-app) is very simple vuejs app.
